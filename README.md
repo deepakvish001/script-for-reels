@@ -26,13 +26,24 @@ aur unme **fact-checking + fairness** jodkar unse behtar content banana hai.
 
 ## 🚀 Growth (3 mahine)
 
+**Rule:** har hafte 2–3 long-form (Tue, Thu, Sat) + 4 reels (Mon, Wed, Fri, Sun; wahi reel YT Shorts
+par). Har video ka content alag. Research usi din ya ek din pehle. Har factual line ka link +
+highlighted screenshot.
+
 | File | Kya hai |
 |---|---|
-| [`growth/00-90-day-growth-plan.md`](growth/00-90-day-growth-plan.md) | Positioning, cadence, weekly workflow, trend scan, month-wise goals, metrics, risks |
-| [`growth/01-content-calendar-12-weeks.md`](growth/01-content-calendar-12-weeks.md) | 12 long-form + 60 reel topics, hooks aur sources / papers ke saath |
-| [`scripts/week-01/`](scripts/week-01/) | ✅ Ready: 1 long-form ("Ek aadmi jisne duniya ka IQ gira diya") + 5 reels |
+| [`growth/00-90-day-growth-plan.md`](growth/00-90-day-growth-plan.md) | Positioning, cadence, hafte ka grid, trend scan, month-wise goals, metrics, risks |
+| [`growth/02-daily-build-system.md`](growth/02-daily-build-system.md) | ⭐ Roz ka process: topic → research → proof script → screenshots → shoot → post |
+| [`growth/01-content-calendar-12-weeks.md`](growth/01-content-calendar-12-weeks.md) | Topic bank: 24 long-form + 36 reels, alag-alag (koi overlap nahi) |
+| [`scripts/INDEX.md`](scripts/INDEX.md) | Kya ban chuka / post hua (topic repeat rokne ke liye) |
+| [`tools/proof/`](tools/proof/) | ⭐ Screenshot tool: source kholta hai, exact line highlight karta hai, PNG banata hai |
 
-**Templates:** [`templates/long-reel-script-template.md`](templates/long-reel-script-template.md) (Instagram 2–3 min),
+**Ready scripts (proof format):**
+[`scripts/2026-11-09-parali-paani-kanoon-reel/`](scripts/2026-11-09-parali-paani-kanoon-reel/) (Mon reel) ·
+[`scripts/2026-11-10-paper-leak-business-long/`](scripts/2026-11-10-paper-leak-business-long/) (Tue long-form)
+
+**Templates:** [`templates/proof-script-template.md`](templates/proof-script-template.md) (⭐ default: line + link + screenshot),
+[`templates/long-reel-script-template.md`](templates/long-reel-script-template.md) (Instagram 2–3 min),
 [`templates/short-reel-script-template.md`](templates/short-reel-script-template.md) (30–90 sec),
 [`templates/long-video-script-template.md`](templates/long-video-script-template.md) (YouTube)
 
@@ -62,7 +73,7 @@ aur unme **fact-checking + fairness** jodkar unse behtar content banana hai.
 
 Is repo mein Claude ke saath kaam karte waqt bas likho:
 
-> "UPI par 60 sec ki reel likho" / "BCCI par 15 min ki long video script likho"
+> "Aaj ki reel banao" / "Kal ka long-form banao" / "Is hafte ke topics batao"
 
 [`CLAUDE.md`](CLAUDE.md) mein instructions hain, taaki har nayi session isi playbook ko follow kare.
 Apni scripts `scripts/` folder mein save karo.

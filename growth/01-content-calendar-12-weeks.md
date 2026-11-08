@@ -1,211 +1,106 @@
-# 12-Week Content Calendar (Topics + Hooks + Sources)
+# Topic Bank: 12 hafte (long-form aur reels alag-alag)
 
-Har hafte: **1 long-form (YouTube) + 5 reels (IG + YT Shorts) + 1 receipts carousel**.
-`[VERIFY]` = shoot se pehle primary source se number / date check karo.
-Har hafte ek **news-peg slot** khaali rakho: us hafte ki badi news ka "hidden system" angle (process:
-[`00-90-day-growth-plan.md`](00-90-day-growth-plan.md#4-trend-scan-har-monday-30-min)).
+**Kaise use karein:** yeh **bank** hai, fixed calendar nahi. Har post ka topic **build ke din** chuno
+([daily build system](02-daily-build-system.md)): pehle trend scan, phir yahan se. Research aur
+sources **usi din / ek din pehle** dobara karo. Yahan likhe sources sirf shuruaati seed hain.
 
-**Pillars:** 🔍 Asli Bill · 🧪 Bharat ka Asli Science · 🧠 Dimaag ka Jaal · 📰 Receipts
+**Rule:** reel bank aur long-form bank mein **koi topic overlap nahi**. Ek topic ek hi baar, ek hi
+format mein. Banne ke baad [`../scripts/INDEX.md`](../scripts/INDEX.md) mein darj karo aur yahan ✅ lagao.
 
----
+**Pillars:** 🔍 Asli Bill · 🧪 Bharat ka Asli Science · 🧠 Dimaag ka Jaal · 📰 Receipts (news)
 
-## Week 1: 🧪 "Ek aadmi jisne duniya ka IQ gira diya" (leaded petrol → aapki haldi) ✅ scripted
-**Script:** [`../scripts/week-01/long-01-lead-ka-zeher.md`](../scripts/week-01/long-01-lead-ka-zeher.md)
-**Reels:** [`../scripts/week-01/`](../scripts/week-01/)
+**Hafte ka pattern:**
 
-| Reel | Hook | Source |
-|---|---|---|
-| R1 Haldi mein lead? | "Kuch shehron ki haldi mein itna lead mila ki bachchon ka blood-lead 10 guna ho sakta hai." | Forsyth et al. 2024, *Sci. Total Env.* ([Stanford FSI](https://fsi.stanford.edu/node/36768)) |
-| R2 Diamond rare nahi | "Diamond rare nahi hai. Usse rare dikhaya gaya." | Epstein, *The Atlantic*, Feb 1982; De Beers / N.W. Ayer 1947 |
-| R3 Iron pillar | "1,600 saal khule aasmaan ke neeche, phir bhi jang nahi. Kyun?" | Balasubramaniam, *Current Science* 2000 / 2003 (IIT Kanpur) |
-| R4 Bulb cartel | "1924 mein companies ne milke bulb ki umar 1,000 ghante fix ki." | Krajewski, *IEEE Spectrum* 2014; [Phoebus cartel](https://en.wikipedia.org/wiki/Phoebus_cartel) |
-| R5 Kabhi-kabhi reply | "Jo kabhi-kabhi reply karta hai, uski aadat sabse zyada kyun lagti hai?" | Ferster & Skinner 1957; Dutton & Painter 1981 (traumatic bonding) |
+| Mon 🎬 | Tue 📺 | Wed 🎬 | Thu 📺 (flex) | Fri 🎬 | Sat 📺 | Sun 🎬 |
+|---|---|---|---|---|---|---|
+| 📰 / 🧪 | 🔍 | 🧠 | 🧪 | 🔍 | 📰 news peg | 🧠 / 🧪 |
+
+Har hafte **1 long-form (Sat) aur 1 reel (Mon) news-peg ke liye khaali** rakho; baaki bank se.
 
 ---
 
-## Week 2: 📰🔍 "Paper leak ka poora business model" (Cockroach Janta Party context)
-**Thesis:** paper leak ek supply-chain business hai: printing press → transport → "solver gang" →
-WhatsApp buyers. Jab ek seat ke liye 20+ aspirant hon, toh demand kabhi khatam nahi hoti.
-**Doosri side:** Public Examinations (Prevention of Unfair Means) Act 2024, NTA reform committee (2024),
-CBT shift, aur kai states ki successful clean exams.
-**Sources:**
-- Indian Express investigation (Feb 2024): 41 leaks, 15 states, ~1.4 crore applicants **[VERIFY original]**
-- [Newslaundry, Jul 2024: 10 years, 89 cases, 48 retests](https://www.newslaundry.com/amp/story/2024/07/31/10-years-89-paper-leak-cases-48-retests-from-centre-to-states-few-plugs-for-a-leaky-record)
-- [ThePrint: Anatomy of a paper leak](https://theprint.in/india/complicit-officials-fragile-supply-chain-gangs-on-the-lookout-anatomy-of-a-paper-leak/2156925)
-- [CNN, 25 Jul 2026: Education minister resigns after 'Cockroach' protests](https://www.cnn.com/2026/07/25/india/india-education-minister-resignation-intl)
-- [Al Jazeera, 25 Jul 2026](https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests) · [Wikipedia: Cockroach Janta Party](https://en.wikipedia.org/wiki/Cockroach_Janta_Party)
+## 📺 Long-form bank (24 evergreen + har Sat ek news-peg)
 
-| Reel | Hook |
-|---|---|
-| R1 | "Paper leak 'chori' nahi, ek supply chain hai. 4 steps mein samjho." |
-| R2 | "Ek seat, kitne log? Isliye leak ka 'market' kabhi band nahi hota." |
-| R3 | "2024 ka anti-paper-leak kanoon kya kehta hai? 60 sec." |
-| R4 📰 | "'Cockroach Janta Party' kya hai? Dono taraf ki baat, 60 sec." |
-| R5 | "Exam CBT pe shift hua toh leak khatam? Nahi. Kyun?" **[VERIFY examples]** |
+| # | Pillar | Topic / working title | Seed sources (JIT par dobara verify) |
+|---|---|---|---|
+| L1 | 📰🔍 | ✅ **Paper leak ka poora business model** (NEET-UG 2026) | [`../scripts/2026-11-10-paper-leak-business-long/`](../scripts/2026-11-10-paper-leak-business-long/) |
+| L2 | 🧪 | Ek aadmi jisne duniya ka IQ gira diya (leaded petrol → haldi) | Draft: [`../scripts/week-01/long-01-lead-ka-zeher.md`](../scripts/week-01/long-01-lead-ka-zeher.md). Proof format mein badalna + re-verify |
+| L3 | 🔍 | It was never about the product: bulb cartel, iPhone slowdown, printer ink | Krajewski, *IEEE Spectrum* 2014; Apple US settlement 2020; India Right to Repair portal |
+| L4 | 🔍 | UPI free hai, toh paisa kaun kama raha hai? | Draft: [`../examples/upi-free-kyun-hai-long.md`](../examples/upi-free-kyun-hai-long.md); NPCI, RBI, Budget docs |
+| L5 | 🔍 | Kota: sapne bechne ka business | MoE coaching guidelines (Jan 2024); CCPA orders on coaching ads; NCRB (helpline zaroor) |
+| L6 | 🔍 | CIBIL score: aapko judge kaun karta hai aur kaise? | RBI Credit Information Companies rules; RBI circulars on CIC complaints |
+| L7 | 🔍 | 10-minute delivery ka asli bill (dark stores, rider economics) | Company DRHP / annual reports; NITI Aayog gig-economy report (2022) |
+| L8 | 🔍 | BCCI duniya ka sabse ameer board kaise bana | BCCI annual reports; IPL media-rights auction 2022 (official release) |
+| L9 | 🧪📰 | Angrez kitna le gaye? $45 trillion number ka sach (+ Bengal famine 1943) | Naoroji 1901; Patnaik 2017; Mishra et al. 2019 *GRL*; Sen 1981 |
+| L10 | 🧪 | Kerala ne Newton se ~250 saal pehle calculus kaise kiya (+ Vymanika debunk) | Joseph, *Crest of the Peacock*; Mukunda et al. 1974 (IISc) |
+| L11 | 🧪 | Wootz steel: Damascus talwar ka Indian raaz | Reibold et al. 2006, *Nature*; Srinivasan (NIAS) papers |
+| L12 | 🧪 | Chechak se polio tak: Bharat ne bimaari kaise haraayi | WHO smallpox eradication record (1980); WHO SEARO polio-free certification 2014 |
+| L13 | 🧪 | Ganga jal ka "jaadu": bacteriophage ka sach vs pollution ka sach | NEERI studies; CPCB water-quality data (parallel, proof nahi) |
+| L14 | 🧪 | Kavach: train ki takkar rokne wala Indian system kahan tak pahuncha | Ministry of Railways / PIB releases; CAG reports |
+| L15 | 🧠 | Apps aapko kaise phansate hain (persuasion design) | Schüll 2012; Allcott et al. 2024 *PNAS*; WSJ Facebook Files 2021 |
+| L16 | 🧠 | Edward Bernays: jisne duniya ko PR sikhaya | Bernays, *Propaganda* (1928); "Torches of Freedom" 1929 |
+| L17 | 🧠 | Cobra effect: jab inaam hi ulta pad jaaye (Hanoi rats, Mexico City, Goodhart) | Vann 2003; Davis 2008 *JPE*; Goodhart 1975 |
+| L18 | 🧠 | "Digital arrest": scam ka psychology aur system | I4C / MHA advisories; PIB releases; RBI warnings |
+| L19 | 🧠 | Gora karne ka business: Fair & Lovely se Glow & Lovely tak | HUL release 2020; ASCI guidelines; Drugs & Magic Remedies Act |
+| L20 | 🧠 | Samajhdaar log bhi fake news par yakeen kyun karte hain (illusory truth) | Hasher et al. 1977; Pennycook & Rand papers |
+| L21 | 🔍 | Diamond "rare" kaise bana: De Beers, "A Diamond Is Forever", Surat, lab-grown | Epstein, *The Atlantic* 1982; GJEPC data |
+| L22 | 🧪 | Monsoon kaise predict hota hai, aur galat kyun ho jaata hai | IMD forecast docs; IITM Pune papers |
+| L23 | 🔍 | Medicine ka daam: same salt, 10 guna price kyun? | NPPA / DPCO 2013; Jan Aushadhi data (doctor se salah) |
+| L24 | 🧠 | Exam ka pressure: rank system ka psychology (helpline ke saath) | NCRB ADSI; WHO; Tele-MANAS 14416 |
 
----
+## 🎬 Reel bank (36 evergreen + har Mon ek news-peg)
 
-## Week 3: 🔍 "It Was Never About the Product": bulb, diamond, iPhone
-**Thesis:** kai industries mein profit product se nahi, **scarcity aur replacement cycle** se aata hai.
-**Doosri side:** kuch "obsolescence" engineering trade-offs hain (bulb: lambi life = kam roshni / zyada
-bijli; bathtub curve). Har cheez conspiracy nahi.
-**Sources:** Krajewski (IEEE Spectrum 2014); Epstein (Atlantic 1982); Apple "batterygate": US
-settlement 2020 (~$500M) aur France fine 2020 **[VERIFY amounts]**; India Right to Repair portal (2022) **[VERIFY]**
+| # | Pillar | Hook | Seed sources |
+|---|---|---|---|
+| R1 | 📰🔍 | ✅ "Diwali ke baad patakhon ko gaali denge. Par dhuen ki ek wajah 2009 ka paani bachane wala kanoon hai." | [`../scripts/2026-11-09-parali-paani-kanoon-reel/`](../scripts/2026-11-09-parali-paani-kanoon-reel/) |
+| R2 | 🧪 | "1,600 saal khule aasmaan ke neeche, phir bhi jang nahi. Kyun?" (iron pillar) | Draft: [`../scripts/week-01/reels-week-01.md`](../scripts/week-01/reels-week-01.md) R3; Balasubramaniam 2000 |
+| R3 | 🧠 | "Jo kabhi-kabhi reply karta hai, uski aadat kyun lagti hai?" | Draft: week-01 R5; Ferster & Skinner 1957 |
+| R4 | 🧪 | "Zero ka sabse purana 'bindu' Bharat mein mila. Oxford ne carbon-date kiya." | Bodleian Libraries release, Sept 2017 |
+| R5 | 🧪 | "Zinc nikaalna mushkil hai. Rajasthan ke Zawar ne sadiyon pehle kar dikhaya." | Craddock et al. (Zawar) papers |
+| R6 | 🧪 | "Chola bronze: 1,000 saal purani 'lost-wax' technique" | Museum catalogues (Met, NGMA) |
+| R7 | 🧪 | "Rani ki Vav: ek baoli jo UNESCO heritage hai. Engineering samjho." | UNESCO listing 2014; ASI |
+| R8 | 🧪 | "Sushruta ki surgery: kya sach hai, kya badha-chadha ke?" | Sushruta Samhita translations; medical history papers |
+| R9 | 🧪 | "Jantar Mantar ki ghadi 2 second tak sahi time batati hai?" | UNESCO 2010 listing; Jaipur Jantar Mantar docs **[VERIFY claim]** |
+| R10 | 🧪 | "Finland vs Russia Karelia: zyada safai bhi problem? (hygiene hypothesis)" | von Hertzen / Haahtela papers (doctor se salah) |
+| R11 | 🧪 | "Jang (rust) lagta kyun hai? 60 sec science." | Basic chemistry text; NACE |
+| R12 | 🔍 | "Shrinkflation: packet wahi, maal kam." | Company pack-size changes; Legal Metrology rules |
+| R13 | 🔍 | "Popcorn medium ₹350, large ₹380: decoy pricing ka khel." | Ariely, *Predictably Irrational* (Economist example) |
+| R14 | 🔍 | "₹999 kyun, ₹1,000 kyun nahi? Left-digit effect." | Thomas & Morwitz 2005 |
+| R15 | 🔍 | "Buy Now Pay Later: free EMI ka asli bill" | RBI digital lending guidelines 2022 |
+| R16 | 🔍 | "MRP se kam mein kyun mil jaata hai? MRP ka matlab samjho." | Legal Metrology (Packaged Commodities) Rules 2011 |
+| R17 | 🔍 | "Hotel minibar ka paani ₹200: captive pricing" | Pricing research |
+| R18 | 🔍 | "Free trial, phir auto-debit: subscription trap" | RBI e-mandate rules 2021 |
+| R19 | 🧠 | "Adhoora kaam dimaag se jaata kyun nahi? (Zeigarnik)" | Zeigarnik 1927 + replication caveats |
+| R20 | 🧠 | "Galti karne wala zyada pasand kyun aata hai? (Pratfall effect)" | Aronson et al. 1966 |
+| R21 | 🧠 | "Jisse madad maango, woh aapko zyada pasand karne lagta hai (Ben Franklin effect)" | Jecker & Landy 1969 |
+| R22 | 🧠 | "Bheed mein koi madad kyun nahi karta? (aur Kitty Genovese kahani ka sach)" | Darley & Latané 1968; Manning et al. 2007 |
+| R23 | 🧠 | "Sabko lagta hai sab unhe dekh rahe hain (spotlight effect)" | Gilovich et al. 2000 |
+| R24 | 🧠 | "Dunning-Kruger: sach, aur jo internet galat samajhta hai" | Kruger & Dunning 1999 + critiques |
+| R25 | 🧠 | "Sale ka laal tag dimaag ko kya karta hai?" | Pricing / neuro-marketing studies **[VERIFY]** |
+| R26 | 🧠 | "Loss aversion: ₹100 khone ka dukh, ₹100 milne ki khushi se bada" | Kahneman & Tversky 1979 |
+| R27 | 📰 | "AQI 500 matlab kya? Cigarette wala hisaab sahi hai ya galat?" | Berkeley Earth note; CPCB AQI method |
+| R28 | 📰 | "Smog tower kaam karte hain? Study kya kehti hai." | IIT Bombay / DPCC evaluation **[VERIFY]** |
+| R29 | 📰 | "Deepfake video kaise pakdein: 4 nishaan" | Fact-check sites (Alt News, BOOM) cases |
+| R30 | 🧪 | "Pingala ne chhand ke liye binary jaisa system banaya" | Pingala Chandahshastra studies **[VERIFY framing]** |
+| R31 | 🔍 | "Airline seat select karne ke paise: unbundling ka business" | DGCA rules on ancillary charges |
+| R32 | 🧠 | "Notification ka dot laal kyun?" | Design research; colour psychology caveats |
+| R33 | 🔍 | "Petrol pump ka ₹100 vs ₹110: myth ya sach?" | Legal Metrology; oil company FAQs |
+| R34 | 🧪 | "Bharat ka pehla rocket cycle par kyun gaya tha?" | ISRO history (1963 Thumba) |
+| R35 | 🧪 | "Aryabhata ne 499 CE mein kaha tha: Prithvi ghoomti hai, aasmaan nahi." | *Aryabhatiya* translations (Clark 1930; K.S. Shukla, INSA 1976) |
+| R36 | 🧠 | "Placebo effect: dawai bina dawai ke kaam kaise karti hai" (doctor se salah) | Kaptchuk papers |
 
-| Reel | Hook |
-|---|---|
-| R1 | "Apple ne purane iPhones slow kiye the. Company ne maana, phir crore bhare." **[VERIFY]** |
-| R2 | "Warranty khatam hote hi phone kharab? Ise 'bathtub curve' kehte hain. Sach jaano." |
-| R3 | "Lab-grown diamond bilkul asli hai. Phir sasta kyun?" (Surat angle) |
-| R4 | "Printer sasta, ink mehngi. Yeh business model hai." |
-| R5 | "Right to Repair: Bharat mein aapke kya haq hain?" |
+## Retired (naye rule se overlap)
 
----
+- Haldi mein lead (reel) → L2 long-form mein hai
+- Phoebus bulb cartel (reel) → L3 long-form mein hai
+- Hanoi rats / Mexico City (reels) → L17 long-form mein hai
+- Infinite scroll / streaks (reels) → L15 long-form mein hai
+- Bengal famine drought study (reel) → L9 long-form mein hai
+- Diamond (reel) → L21 long-form mein hai
+- "Delhi ki hawa" long-form → R1 / R27 / R28 reels mein hai
 
-## Week 4: 🧪📰 "Angrez kitna le gaye? $45 trillion wale number ka sach"
-**Thesis:** colonial drain asli tha (Dadabhai Naoroji, 1901). $45T ek *estimate* hai jiski apni
-assumptions hain, toh number aur method dono samjhao.
-**Doosri side:** economic historians ki critiques of the $45T method; railways / institutions wali debate.
-**Sources:** Naoroji, *Poverty and Un-British Rule in India* (1901); Utsa Patnaik (2017, Columbia UP
-essay) **[VERIFY]**; Maddison Project (India ~24% world GDP c.1700) **[VERIFY]**; Amartya Sen,
-*Poverty and Famines* (1981); Mishra et al. 2019, *Geophysical Research Letters*: 1943 Bengal famine
-drought-driven nahi tha **[VERIFY]**
-
-| Reel | Hook |
-|---|---|
-| R1 | "1943 Bengal famine: barish ki kami nahi thi. IIT Gandhinagar ki study." |
-| R2 | "'Sone ki chidiya' sirf kahavat nahi. 1700 mein duniya ki GDP mein Bharat ka hissa?" |
-| R3 | "Railways kiske liye bani thi? Map dekho, jawab mil jaayega." |
-| R4 | "Dadabhai Naoroji ne 1901 mein 'drain' ka hisaab lagaya tha." |
-| R5 | "$45 trillion ka number kahan se aaya? Aur critics kya kehte hain?" |
-
----
-
-## Week 5: 🧪 "Kerala ne Newton se ~250 saal pehle calculus kaise kiya?"
-**Thesis:** Kerala school (Madhava, c.1340–1425) ne infinite series (π, sine, cosine) diye. Yeh asli,
-documented pride hai. Aur jahan claims stretch hote hain (Vymanika Shastra), wahan IISc ne khud check kiya.
-**Sources:** George Gheverghese Joseph, *The Crest of the Peacock*; Univ. of Manchester press (2007,
-Joseph & Almeida) **[VERIFY]**; Bakhshali manuscript carbon dating, Bodleian / Oxford 2017; Mukunda et
-al. 1974, IISc, "A critical study of the work Vymanika Shastra" **[VERIFY]**
-
-| Reel | Hook |
-|---|---|
-| R1 | "Zero ka sabse purana likha hua 'bindu' Bharat mein mila. Oxford ne carbon-date kiya." |
-| R2 | "π ka infinite formula Europe se 200+ saal pehle Kerala mein." |
-| R3 | "Pushpak Viman ka 'manual' IISc ne 1974 mein check kiya tha. Result?" |
-| R4 | "Pingala ne binary jaisa system chhand (poetry) ke liye banaya." **[VERIFY framing]** |
-| R5 | "Brahmagupta ne 628 CE mein zero ke rules likhe, aur ek galti bhi ki." |
-
----
-
-## Week 6: 🧠 "Dimaag ka Jaal: apps aapko kaise phansate hain"
-**Sources:** Natasha Dow Schüll, *Addiction by Design* (2012); Aza Raskin on infinite scroll (2019
-interviews) **[VERIFY]**; WSJ "Facebook Files" (2021) on MSI / reaction weighting; Allcott, Gentzkow et
-al. 2024 deactivation experiment (PNAS); India DPDP Act 2023 (children's data)
-
-| Reel | Hook |
-|---|---|
-| R1 | "Infinite scroll banane wale ne khud maafi maangi." |
-| R2 | "Notification ka dot laal kyun hota hai?" |
-| R3 | "Pull-to-refresh aur slot machine ek hi cheez hain." |
-| R4 | "Facebook ne 'angry' reaction ko like se 5 guna weight diya tha." **[VERIFY]** |
-| R5 | "Streak tootne ka dar: aapka dimaag aur Snapchat." |
-
----
-
-## Week 7: 🔍📰 "Delhi ki hawa: asli culprit kaun?" (Nov smog season)
-**Twist thesis:** paani bachane ke liye bana Punjab ka 2009 kanoon (paddy transplanting late) → harvest
-late → wheat sowing ka window chhota → parali jalana badha. **Ek achha kanoon, ek bura side-effect.**
-**Doosri side:** vehicles, dust, industry ka bada hissa; farmers ki economics (machines ka kharcha, MSP).
-**Sources:** Punjab Preservation of Subsoil Water Act 2009 **[VERIFY studies on timing effect]**;
-IIT Kanpur source apportionment 2016; TERI–ARAI 2018; SAFAR / IITM Pune daily stubble share;
-NASA FIRMS fire counts; CAQM
-
-| Reel | Hook |
-|---|---|
-| R1 | "Paani bachane ke ek kanoon ne Delhi ki hawa kaise kharab ki?" |
-| R2 | "AQI 1,000 matlab kya? Cigarette wala hisaab sahi hai ya galat?" |
-| R3 | "Smog tower kaam karte hain? Study kya kehti hai." **[VERIFY]** |
-| R4 | "Delhi vs Lahore: ek hi hawa, do sarkarein." |
-| R5 | "N95 vs cloth mask: kitna farq?" (sirf official guidance ke hisaab se) |
-
----
-
-## Week 8: 🔍 "Kota: sapne bechne ka business"
-**Doosri side:** coaching ne lakhs ko mauka bhi diya; teachers ki mehnat; regulation ke side-effects.
-**Sources:** Ministry of Education guidelines for coaching centres (Jan 2024) **[VERIFY]**; CCPA penalties
-on misleading coaching ads (2024–25) **[VERIFY]**; Rajasthan coaching regulation law (2025) **[VERIFY]**;
-NCRB student-suicide data (sensitive: helpline zaroor dikhao)
-
-| Reel | Hook |
-|---|---|
-| R1 | "Ek topper, teen coaching ke posters par. Kaise?" |
-| R2 | "'Dummy school' kya hota hai?" |
-| R3 | "Kota ke hostels ke pankhon mein spring kyun lagi?" (sensitive, helpline ke saath) |
-| R4 | "Coaching industry kitni badi hai?" **[VERIFY]** |
-| R5 | "Rank nahi aayi toh? 3 asli raaste." (positive, practical) |
-
----
-
-## Week 9: 🧠 "Edward Bernays: jisne duniya ko breakfast aur cigarette bechi"
-**Sources:** Bernays, *Propaganda* (1928); "Torches of Freedom" (NYC Easter parade, 1929); Adam Curtis,
-*The Century of the Self* (BBC, 2002); Fair & Lovely → Glow & Lovely rename (2020)
-
-| Reel | Hook |
-|---|---|
-| R1 | "1929: auraton ko cigarette bechne ke liye 'azaadi ki mashaal' ka naam diya gaya." |
-| R2 | "Bacon-eggs 'healthy breakfast' kisne banaya? Ek PR man ne." |
-| R3 | "Freud ka bhaanja duniya ka pehla PR guru tha." |
-| R4 | "'Doctors recommend' wale cigarette ads sach mein the." |
-| R5 | "Influencer marketing = Bernays 2.0?" (self-roast ke saath) |
-
----
-
-## Week 10: 🔍 "UPI free hai, toh paisa kaun kama raha hai?" ✅ draft ready
-**Draft:** [`../examples/upi-free-kyun-hai-long.md`](../examples/upi-free-kyun-hai-long.md) (numbers refresh karo)
-
-| Reel | Hook |
-|---|---|
-| R1 | [`../examples/upi-free-kyun-hai-short.md`](../examples/upi-free-kyun-hai-short.md) |
-| R2 | [`../examples/upi-long-reel.md`](../examples/upi-long-reel.md) |
-| R3 | "MDR kya hota hai? Card vs UPI, 60 sec." |
-| R4 | "'Pre-approved loan' ka matlab aap special ho, ya data?" |
-| R5 | "Ek app down = aadha desh atka. Concentration risk." |
-
----
-
-## Week 11: 🧪 "Iron pillar se Wootz tak: Bharat ki metallurgy"
-**Sources:** Balasubramaniam (IIT Kanpur); Reibold et al. 2006, *Nature*: carbon nanotubes in a Damascus
-sabre **[VERIFY]**; Zawar (Rajasthan) zinc smelting archaeology **[VERIFY dates]**; Chola bronze lost-wax casting
-
-| Reel | Hook |
-|---|---|
-| R1 | "Damascus talwar mein 'nanotubes'? Steel South India se aata tha." |
-| R2 | "Zinc nikaalna mushkil hai. Rajasthan ne sadiyon pehle kar dikhaya." |
-| R3 | "Chola bronze: 1,000 saal purani 3D printing?" (analogy, claim nahi) |
-| R4 | "Jang (rust) lagta kyun hai? 45 sec science." |
-| R5 | "Iron pillar ko chhoona kyun mana hai?" |
-
----
-
-## Week 12: 🧠🔍 "Cobra effect: jab inaam hi ulta pad jaaye"
-**Thesis:** galat incentive = ulta result. Har policy / company / creator ke liye seekh.
-**Sources:** Michael Vann (2003) on the Hanoi rat hunt of 1902; Horst Siebert (2001) coined "cobra
-effect" (Delhi story ka documentation kamzor hai, **yeh khud bolo**); Davis (2008), *J. Political
-Economy*, Mexico City "Hoy No Circula"; Goodhart (1975); Campbell's law
-
-| Reel | Hook |
-|---|---|
-| R1 | "Chuhe ki poonchh laao, inaam pao. Hanoi 1902 mein kya hua?" |
-| R2 | "Delhi ka cobra wala kissa: mashhoor hai, par saboot kitna?" |
-| R3 | "Gaadi kam karne ke kanoon se gaadiyan badh gayi (Mexico City)." |
-| R4 | "Jab number target ban jaaye, number bekaar ho jaata hai (Goodhart)." |
-| R5 | "Likes ke chakkar mein maine bhi content kharab kiya tha." (self-roast) |
-
----
-
-## Backlog (aur ideas)
-- 🔍 Credit score (CIBIL) kaun banata hai · Quick commerce ka sach · BCCI paise kaise kamaata hai
-- 🧠 Ben Franklin effect · Pratfall effect (Aronson 1966) · Zeigarnik effect (adhoore kaam yaad rehte hain)
-- 🧪 Hygiene hypothesis: **Karelia study (Finland vs Russia)**, sahi version · Sushruta ki surgery (verified scope)
+## Backlog
+- 🔍 Insurance claim reject kyun hote hain · IPO grey market · Real-money gaming ban ka asar
+- 🧠 Choice overload (jam study + replication) · Sunk cost: "itna padh liya, ab chhod nahi sakte"
+- 🧪 Bhimbetka rock art · Lothal dockyard · Kerala ka Muziris
 - 📰 Har badi news ka "follow the incentive" angle

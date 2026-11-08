@@ -1,5 +1,10 @@
 # Week 1 Reels (5 scripts)
 
+> **Naye system (Nov 2026) ke baad:** yeh purane drafts hain. R1 (haldi) aur R4 (bulb) retire ho gaye,
+> kyunki unke topic ab long-forms mein hain. R2, R3, R5 use karne se pehle post ke din / ek din pehle
+> dobara research karo aur [proof format](../../templates/proof-script-template.md) mein likho.
+> Status: [`../INDEX.md`](../INDEX.md)
+
 Format: [`../../playbook/08-long-reel-framework.md`](../../playbook/08-long-reel-framework.md) ·
 Shoot: phone selfie, 2 outfits (R1–R3 ek, R4–R5 doosra), natural light.
 **Captions zaroor lagao** (Rishabh ke reels mein nahi hote, aapka easy edge). Har reel ke baad
