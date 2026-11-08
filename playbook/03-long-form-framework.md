@@ -1,5 +1,8 @@
 # Long-Form Framework (YouTube explainer, 12–30 min)
 
+> **Update:** 16 asli long-form transcripts ke baad ka zyada precise formula (timeline, sponsor bridge,
+> cold-open menu): [`09-youtube-long-form-dna.md`](09-youtube-long-form-dna.md). Yeh file general principles ke liye hai.
+
 Rishabh ka long-form "**documentary-lite**" style hai: ek insaan camera se baat karta hai, aur
 B-roll, headlines aur graphics se kahani aage badhti hai. Unke apne shabdon mein unka ideal
 woh creator hai jo "**koi loophole nahi chhodta**", chahe mahine mein ek hi video aaye.
