@@ -85,7 +85,38 @@ Rishabh ki videos se seedha nikle patterns par ⭐ laga hai.
 
 ---
 
-## 8. Title formulas
+## 8. Instagram reels se (asli lines ke patterns) 🎬
+
+Source: [`../research/03-instagram-reels-analysis.md`](../research/03-instagram-reels-analysis.md)
+
+**Hooks**
+- "Abhi jo ___ viral hua tha na, woh fake tha." (R1)
+- "Yeh ___ apne haathon mein kya leke ghoom rahe hain? Kaunsa brand hai yeh?" (R2)
+- "___ ne ___ sirf ₹___ mein liya tha. Kya hota hai bhai ₹___?" (R3)
+- "___ ke baare mein pata hai aapko? Unki real life story kaafi kam logon ko pata hai." (R4)
+- "___ ko maine video daali thi ki ___. Aaj dekho." (R5)
+
+**Reframe / sawaal**
+- "Aapko lagta hai simple cheez hai? Simple nahi hai bhai." (R1)
+- "Yeh ___ ka business actually ___ ka business nahi hai. Yeh hai ___ business." (R3)
+- "Aapko kya lagta hai ___ sirf ___ karta hai? Nahi bhai." (R5)
+- "Yahan sabse important pata kya hota hai?" (R1)
+- "FIR kis basis pe hui hogi? Guess karo." (R1)
+- "Achha yeh chhodo, aap yeh batao, kya aapko pata hai ___ kya hota hai?" (R2, pivot + open loop)
+
+**Bridge**
+- "Theek usi time ___ hua." (R1)
+- "Aapko pata hai ki India mein isse kahin zyada badi ___..." (R4)
+- "Jo maine starting mein ___ dikhaya tha..." (R2, open loop close)
+- "Ab kai logon ko mirchi lagti hai ki yeh ___ kyun kar raha hai..." (R3, objection pre-empt)
+
+**Close**
+- "Meri bas itni si request hai..." (R1)
+- "Time ke saath dekhte rehna. Already ho chuka hai waise." (R3)
+- "Isko financial advice ki tarah mat lena, yeh analysis hai." (R5, disclaimer)
+- English punch: "It's a new kind of warfare." / "We should all come back to ___." / "___ is gonna be big."
+
+## 9. Title formulas
 
 - "___: [number] log jo ___ chalate hain"
 - "___ ka asli sach (jo koi nahi batata)"

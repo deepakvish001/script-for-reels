@@ -13,7 +13,13 @@
 | Web search | ✅ Channel identity, stats, kuch video links mile |
 | Higgsfield video analysis (YouTube links) | ✅ 4 videos analyse hue, 1 fail hua (BlackRock) |
 
-**Matlab:** Instagram ki *saari* reels dekhna is setup mein possible nahi tha. Jo analysis hai
+**Update (8 Nov 2026):** user ne 5 Instagram reels seedha upload kiye. Higgsfield upload host
+bhi proxy se blocked tha, isliye frames ffmpeg se nikaale aur audio local Whisper-small
+(CTranslate2 int8, npm package se, checksum verify karke) se transcribe kiya. Analysis:
+[`03-instagram-reels-analysis.md`](03-instagram-reels-analysis.md). **Aage bhi yahi tareeka:
+reels upload karo, main transcribe aur analyse kar dunga.**
+
+**Pehle wali sthiti:** Instagram ki *saari* reels dekhna is setup mein possible nahi tha. Jo analysis hai
 woh unke YouTube long-form, podcasts aur ek fan-short par based hai. Same creator, same style.
 
 ## Aage aur reels analyse karne ke tareeke (aap choose karo)

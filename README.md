@@ -20,18 +20,22 @@ aur unme **fact-checking + fairness** jodkar unse behtar content banana hai.
 | 5 | [`playbook/05-research-and-fact-check.md`](playbook/05-research-and-fact-check.md) | Research pipeline, source tiers, fact-check checklist |
 | 6 | [`playbook/06-visuals-and-editing.md`](playbook/06-visuals-and-editing.md) | Camera setup, B-roll types, pacing, captions |
 | 7 | [`playbook/07-topic-idea-bank.md`](playbook/07-topic-idea-bank.md) | Topic ideas aur idea scoring |
+| 8 | [`playbook/08-long-reel-framework.md`](playbook/08-long-reel-framework.md) | ⭐ **Rishabh ka asli Instagram format**: 2.5–3 min phone-selfie mini-explainer, 3 variants |
 
-**Templates:** [`templates/short-reel-script-template.md`](templates/short-reel-script-template.md),
-[`templates/long-video-script-template.md`](templates/long-video-script-template.md)
+**Templates:** [`templates/long-reel-script-template.md`](templates/long-reel-script-template.md) (Instagram 2–3 min),
+[`templates/short-reel-script-template.md`](templates/short-reel-script-template.md) (30–90 sec),
+[`templates/long-video-script-template.md`](templates/long-video-script-template.md) (YouTube)
 
-**Worked example (ek topic, dono formats):**
-[`examples/upi-free-kyun-hai-long.md`](examples/upi-free-kyun-hai-long.md) →
-[`examples/upi-free-kyun-hai-short.md`](examples/upi-free-kyun-hai-short.md)
+**Worked example (ek topic, teen formats):**
+[`examples/upi-free-kyun-hai-long.md`](examples/upi-free-kyun-hai-long.md) (YouTube) →
+[`examples/upi-long-reel.md`](examples/upi-long-reel.md) (Instagram 2:40) →
+[`examples/upi-free-kyun-hai-short.md`](examples/upi-free-kyun-hai-short.md) (60 sec)
 
 **Research:**
 [`research/00-access-notes.md`](research/00-access-notes.md) (kya dekh paaye, kya nahi) ·
 [`research/01-creator-profile.md`](research/01-creator-profile.md) ·
-[`research/02-video-breakdowns.md`](research/02-video-breakdowns.md)
+[`research/02-video-breakdowns.md`](research/02-video-breakdowns.md) (YouTube) ·
+[`research/03-instagram-reels-analysis.md`](research/03-instagram-reels-analysis.md) (⭐ 5 Instagram reels, beat-by-beat)
 
 ---
 

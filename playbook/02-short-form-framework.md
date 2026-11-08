@@ -1,5 +1,9 @@
 # Short-Form Framework (Reels / Shorts, 30–90 sec)
 
+> **Note:** Rishabh ki asli Instagram reels **2.5–3 min** ki hoti hain. Woh format
+> [`08-long-reel-framework.md`](08-long-reel-framework.md) mein hai. Yeh file 30–90 sec ke
+> Shorts / Reels ke liye hai (YouTube Shorts, ya long video se kaate hue clips).
+
 Short mein **ek hi idea** hota hai. Usse ek **sawaal → twist → proof → punch** ki tarah
 bolna hai. Rishabh ke shorts do tarah ke dikhe:
 

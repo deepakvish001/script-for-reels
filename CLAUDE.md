@@ -8,8 +8,13 @@ in both short and long form.
 ## When the user asks for a script
 
 1. Read `playbook/01-creator-dna.md` first, then the relevant framework:
-   - short (≤90s): `playbook/02-short-form-framework.md` + `templates/short-reel-script-template.md`
-   - long (8–30 min): `playbook/03-long-form-framework.md` + `templates/long-video-script-template.md`
+   - **Instagram reel (default when the user just says "reel")**: 2–3 min phone-selfie
+     mini-explainer, the creator's real format. Use `playbook/08-long-reel-framework.md` +
+     `templates/long-reel-script-template.md`, and see `research/03-instagram-reels-analysis.md`
+     for 5 real beat-by-beat examples.
+   - short (≤90s, Shorts or clips cut from long videos): `playbook/02-short-form-framework.md` +
+     `templates/short-reel-script-template.md`
+   - long (8–30 min YouTube): `playbook/03-long-form-framework.md` + `templates/long-video-script-template.md`
 2. Use hooks and lines from `playbook/04-hook-and-line-bank.md`. Adapt them to the topic, don't
    paste them verbatim.
 3. Write in **Hinglish (Roman script)**: Hindi sentence structure with natural English nouns,
