@@ -21,6 +21,16 @@ aur unme **fact-checking + fairness** jodkar unse behtar content banana hai.
 | 6 | [`playbook/06-visuals-and-editing.md`](playbook/06-visuals-and-editing.md) | Camera setup, B-roll types, pacing, captions |
 | 7 | [`playbook/07-topic-idea-bank.md`](playbook/07-topic-idea-bank.md) | Topic ideas aur idea scoring |
 | 8 | [`playbook/08-long-reel-framework.md`](playbook/08-long-reel-framework.md) | ⭐ **Rishabh ka asli Instagram format**: 2.5–3 min phone-selfie mini-explainer, 3 variants |
+| 9 | [`playbook/09-youtube-long-form-dna.md`](playbook/09-youtube-long-form-dna.md) | ⭐ **16 asli YouTube transcripts se** long-form timeline, cold-open menu, sponsor formula, packaging |
+| 10 | [`playbook/10-humor-taunt-meme-bank.md`](playbook/10-humor-taunt-meme-bank.md) | Humour, taunt aur meme rules + ready Hinglish lines |
+
+## 🚀 Growth (3 mahine)
+
+| File | Kya hai |
+|---|---|
+| [`growth/00-90-day-growth-plan.md`](growth/00-90-day-growth-plan.md) | Positioning, cadence, weekly workflow, trend scan, month-wise goals, metrics, risks |
+| [`growth/01-content-calendar-12-weeks.md`](growth/01-content-calendar-12-weeks.md) | 12 long-form + 60 reel topics, hooks aur sources / papers ke saath |
+| [`scripts/week-01/`](scripts/week-01/) | ✅ Ready: 1 long-form ("Ek aadmi jisne duniya ka IQ gira diya") + 5 reels |
 
 **Templates:** [`templates/long-reel-script-template.md`](templates/long-reel-script-template.md) (Instagram 2–3 min),
 [`templates/short-reel-script-template.md`](templates/short-reel-script-template.md) (30–90 sec),
@@ -36,7 +46,8 @@ aur unme **fact-checking + fairness** jodkar unse behtar content banana hai.
 [`research/01-creator-profile.md`](research/01-creator-profile.md) ·
 [`research/02-video-breakdowns.md`](research/02-video-breakdowns.md) (YouTube) ·
 [`research/03-instagram-reels-analysis.md`](research/03-instagram-reels-analysis.md) (⭐ Instagram reels R1–R5, beat-by-beat) ·
-[`research/04-instagram-reels-batch-2.md`](research/04-instagram-reels-batch-2.md) (⭐ R6–R10 + 10-reel patterns)
+[`research/04-instagram-reels-batch-2.md`](research/04-instagram-reels-batch-2.md) (⭐ R6–R10 + 10-reel patterns) ·
+[`research/05-youtube-long-form-transcripts.md`](research/05-youtube-long-form-transcripts.md) (⭐ 16 YouTube long-form transcripts)
 
 ---
 

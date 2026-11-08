@@ -105,6 +105,19 @@ Framework: [`08-long-reel-framework.md`](08-long-reel-framework.md)
   history sab karta hai. **Topic se zyada "lens" consistent hai**: *"jo dikh raha hai uske
   peeche kuch aur hai"*, aur ek *India-first* nazariya.
 
+## 6c. YouTube long-form DNA (16 asli transcripts se)
+
+Detail: [`../research/05-youtube-long-form-transcripts.md`](../research/05-youtube-long-form-transcripts.md) ·
+Formula: [`09-youtube-long-form-dna.md`](09-youtube-long-form-dna.md)
+
+- **Cold open:** exact date wali kahani ("16 Sep 1973..."), celebrity / viral news, research stat, ya myth jise pehle todte hain.
+- **Foundation:** "pehle ek cheez samajhna zaroori hai", concept zero se, ghar ki misaal (cooker ki seeti, PUBG map, ₹10 ke seb).
+- **Sponsor:** 10/16 videos mein, 3–6 min par, topic se bridge karke ("jab bhi nayi technology aati hai...").
+- **Story chain + open loops:** "is scientist ka naam yaad rakhna", "yeh bandaa kaun tha, aage bataunga".
+- **Dots connect:** "itne coincidences nahi ho sakte", saath mein shield: "mera personal analysis hai".
+- **Close:** naam reveal / callback, phir comment sawaal, phir abrupt "that's it".
+- **Titles:** "Dark Reality of...", "I Spent 7 Days Decoding...", "I tracked how...", "Why Do They Want X Out?".
+
 ## 7. Isse kya NAHI lena
 
 - Kisi poori community ke baare mein generalisation. Isse strike, ban aur trust loss hota hai.

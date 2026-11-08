@@ -16,7 +16,13 @@ in both short and long form.
      science→tradition, emotional story, pop-culture re-read, civic "kadwa sach") that fits the topic.
    - short (≤90s, Shorts or clips cut from long videos): `playbook/02-short-form-framework.md` +
      `templates/short-reel-script-template.md`
-   - long (8–30 min YouTube): `playbook/03-long-form-framework.md` + `templates/long-video-script-template.md`
+   - long (8–30 min YouTube): `playbook/09-youtube-long-form-dna.md` (built from 16 real transcripts,
+     see `research/05-youtube-long-form-transcripts.md`) + `playbook/03-long-form-framework.md` +
+     `templates/long-video-script-template.md`. `scripts/week-01/long-01-lead-ka-zeher.md` is the reference example.
+   - Use `playbook/10-humor-taunt-meme-bank.md` for light humour (punch up, never down).
+   - For "what should I make next / growth" requests, follow `growth/00-90-day-growth-plan.md` and
+     pick from `growth/01-content-calendar-12-weeks.md`. Save new weekly packs to `scripts/week-XX/`.
+     Do a fresh trend scan (web search) for the news-peg slot, and only use news confirmed by 2 reliable sources.
 2. Use hooks and lines from `playbook/04-hook-and-line-bank.md`. Adapt them to the topic, don't
    paste them verbatim.
 3. Write in **Hinglish (Roman script)**: Hindi sentence structure with natural English nouns,
@@ -41,6 +47,11 @@ in both short and long form.
   (follow-the-money) is not proof of intent, so say so.
 - Keep physics, biology and health claims accurate even in science→tradition reels. Frame them
   as parallels, not proof.
+- Never write anything that contradicts established medical safety guidance (e.g. infant safe sleep,
+  vaccines, prescribed medicines), even though the reference creator did (his SIDS claim). Add
+  "doctor se salah lein" to any health-adjacent script.
+- Sponsor segments must be disclosed (ASCI) and must not over-promise. No gambling, betting or
+  "guaranteed returns" brands.
 - Don't reproduce other creators' scripts verbatim. Use the techniques, write original lines.
 
 ## Adding more research
