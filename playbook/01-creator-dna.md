@@ -80,6 +80,31 @@ Research authority, Journey.**
 | Source material | Aksar long video ya podcast ka sabse spicy 20–60 sec clip | Original research script |
 | Emotion | Anger, indignation, "yeh galat hai" | Curiosity, awe, "ab samajh aaya" |
 
+## 6b. Instagram reels ka DNA (5 asli reels se)
+
+Detail: [`../research/03-instagram-reels-analysis.md`](../research/03-instagram-reels-analysis.md) ·
+Framework: [`08-long-reel-framework.md`](08-long-reel-framework.md)
+
+- **Length 2.5–3 min**, 60 sec nahi. Har reel ek poora mini-argument hai.
+- **Phone selfie, gaadi ya bed mein**: casual "dost bata raha hai" feel, bina studio ke.
+- **Headline screenshots + yellow highlight**, AI-answer style black cards, AI illustrations,
+  ek-shabd label ("FAKE!", "SOVEREIGNTY").
+- **Hooks:** viral news debunk, number shock ("₹22 crore... kya hota hai bhai 22 crore?"),
+  celebrity hidden story, hidden-brand curiosity, receipts ("maine 31 Oct ko kaha tha").
+- **Core move:** *"Aapko kya lagta hai X sirf Y karta hai? Nahi bhai."* Har reel mein ek
+  hidden-business ya hidden-game reframe hota hai.
+- **"Guess karo"**, **"Achha yeh chhodo"**, **"Simple nahi hai bhai"**, **"Yahi toh saari kahani hai"**.
+- **Close:** "Meri bas itni si request hai..." / "Time ke saath dekhte rehna" / English punch line.
+- **Series thinking:** ek reel mein prediction, agli reel mein "proof".
+- **Monetisation:** brand integration ko education reel ki tarah banana (bliss point → product).
+- **Batch 2 (R6–R10) ne aur variants dikhaye:** follow-the-money (Golden Rice), science →
+  tradition (vibration → Shiv), emotional story + prayer CTA (baby elephant), movie-scene re-read
+  + name reveal (KGB → diaspora → Modi), civic "kadwa sach" (pollution). Detail:
+  [`../research/04-instagram-reels-batch-2.md`](../research/04-instagram-reels-batch-2.md)
+- **Range:** ek hi creator geopolitics, business, animals, science-spirituality, pollution aur
+  history sab karta hai. **Topic se zyada "lens" consistent hai**: *"jo dikh raha hai uske
+  peeche kuch aur hai"*, aur ek *India-first* nazariya.
+
 ## 7. Isse kya NAHI lena
 
 - Kisi poori community ke baare mein generalisation. Isse strike, ban aur trust loss hota hai.
