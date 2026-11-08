@@ -110,6 +110,30 @@ Source: [`../research/03-instagram-reels-analysis.md`](../research/03-instagram-
 - "Jo maine starting mein ___ dikhaya tha..." (R2, open loop close)
 - "Ab kai logon ko mirchi lagti hai ki yeh ___ kyun kar raha hai..." (R3, objection pre-empt)
 
+**Hooks (batch 2)**
+- "Yeh meri chat hai mere dost se... maine poocha, tune khud shoot ki hai na?" (R7)
+- "___ ko jaante ho? ___ se bahut tagdi ladai chali hai." (R9)
+- "Aaj main aapko iska ek chhota sa meaning bataunga, aapki reality modify ho jaayegi." (R10)
+- Famous film scene, phir "Aap dekho yeh scene kya tha, yeh chal kya raha tha." (R8)
+- "Sirf ek din ki thi woh..." (R6)
+
+**Middle (batch 2)**
+- "Par ek kadwa sach hai..." (R7)
+- "Tum ___ nahi rok sakte... jo aap rok sakte ho, woh hai ___." (R7)
+- "Par sawaal yeh hai ki ___ ke paas itni power kahan se aayi?" (R8)
+- "___ bante kis cheez se hain? ___ se." (R9, follow-the-money chain)
+- "Ab aap logon ko thoda shak hona shuru ho raha hai na?" (R9)
+- "Toh phir main dikh kaise raha hoon?" (R10)
+- "Aapne kabhi pankha dekha hai?" (R10, ghar ki cheez se analogy)
+- "Aise maan lo aap ek taang pe khade ho, aur khade hi raho." (R6)
+- "Bada strange fact hai yeh." (R6)
+
+**Close (batch 2)**
+- "Pata hai woh insaan kaun tha? ___." (R8, twist reveal)
+- "Kya yeh coincidence hai ki ___?" (R10)
+- "Pray for her." (R6)
+- "Aapas mein coordinate karo... woh humans hain bhai, please sort it out." (R7)
+
 **Close**
 - "Meri bas itni si request hai..." (R1)
 - "Time ke saath dekhte rehna. Already ho chuka hai waise." (R3)

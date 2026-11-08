@@ -97,6 +97,75 @@ Curiosity hook jo brand chhupaye ("yeh celebrities kya leke ghoom rahe hain?")
 **Rules:** "Paid partnership" / #ad label lagao (ASCI). Product ki kamzori bhi imaandari se bolo
 (jaise "gud bhi sugar hi hai, kam khao"). Celebrity endorsement tabhi imply karo jab sach ho.
 
+## 5b. Variant C: Follow-the-money / "who benefits" (R9)
+
+```
+Two-name conflict hook ("___ ko jaante ho? ___ se tagdi ladai chali hai")
+→ emotional problem (bachche, kisaan, aam aadmi)
+→ hero solution ("bahut tagda invention")
+→ "par..." → paisa / patent / maalik kaun?
+→ chain: A → B → C → D (har link par ek card / headline)
+→ "Ab aapko thoda shak hona shuru ho raha hai na?"
+→ loop close: shuru ki problem ko usi system se jodo
+```
+
+**Fair-play rule:** har link ke saath bolo "yeh *connection* hai, *saboot* nahi". Doosri side
+(jaise free humanitarian licence) zaroor batao.
+
+## 5c. Variant D: Science → tradition bridge (R10)
+
+```
+Viral science clip + "aapki reality modify ho jaayegi"
+→ science history as a story (scientist, experiment, surprise)
+→ "Toh phir ___ kaise?" (viewer ka sawaal khud poocho)
+→ ghar ki cheez se analogy (pankha)
+→ body-scale shock (nail = shehar)
+→ mythology / tradition payoff ("woh mazaak nahi kar raha tha")
+→ "kya yeh coincidence hai?" close
+```
+
+**Fair-play rule:** physics sahi rakho. "Science sabit karta hai" ki jagah "ek sundar parallel hai" bolo.
+
+## 5d. Variant E: Emotional story + prayer CTA (R6)
+
+```
+Victim detail ("sirf ek din ki thi")
+→ kya hua (chronology)
+→ stakes ("aaj bhi critical")
+→ strange fact break (curiosity)
+→ rescue / hero
+→ body analogy ("ek taang pe khade raho")
+→ strange fact #2
+→ "pray for her"
+```
+
+## 5e. Variant F: Pop-culture re-read + twist reveal (R8)
+
+```
+Iconic movie scene → "aap dekho yeh scene kya tha, chal kya raha tha"
+→ "sawaal yeh hai ki..." (logical gap)
+→ hidden power (villain)
+→ counter-move by an unnamed group / insaan
+→ ek specific chhoti detail ($500 pass, floor pe sona)
+→ payoff (aaj ka result, numbers)
+→ "Pata hai woh insaan kaun tha? ___." (name reveal)
+```
+
+**Fair-play rule:** "allegedly" ko voice-over mein bhi bolo. Kisi poori community par blame mat daalo.
+
+## 5f. Variant G: Civic "kadwa sach" (R7)
+
+```
+Personal proof (dost ki chat / video, "khud shoot ki thi")
+→ govt ne kya kiya (policy card)
+→ "kadwa sach" #1 (jo badal nahi sakte: geography)
+→ causes + trade-off ("yeh nahi rok sakte, yeh rok sakte ho")
+→ "kadwa sach" #2 + ek surprising data point
+→ bipartisan appeal ("sab coordinate karo, woh humans hain bhai")
+```
+
+**Fair-play rule:** saare major causes ka hissa bolo (sirf do nahi). Videos ki jagah data (satellite fire counts) use karo.
+
 ---
 
 ## 6. Delivery style

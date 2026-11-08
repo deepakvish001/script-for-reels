@@ -35,7 +35,8 @@ aur unme **fact-checking + fairness** jodkar unse behtar content banana hai.
 [`research/00-access-notes.md`](research/00-access-notes.md) (kya dekh paaye, kya nahi) ·
 [`research/01-creator-profile.md`](research/01-creator-profile.md) ·
 [`research/02-video-breakdowns.md`](research/02-video-breakdowns.md) (YouTube) ·
-[`research/03-instagram-reels-analysis.md`](research/03-instagram-reels-analysis.md) (⭐ 5 Instagram reels, beat-by-beat)
+[`research/03-instagram-reels-analysis.md`](research/03-instagram-reels-analysis.md) (⭐ Instagram reels R1–R5, beat-by-beat) ·
+[`research/04-instagram-reels-batch-2.md`](research/04-instagram-reels-batch-2.md) (⭐ R6–R10 + 10-reel patterns)
 
 ---
 

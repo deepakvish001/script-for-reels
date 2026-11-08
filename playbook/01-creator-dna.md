@@ -97,6 +97,13 @@ Framework: [`08-long-reel-framework.md`](08-long-reel-framework.md)
 - **Close:** "Meri bas itni si request hai..." / "Time ke saath dekhte rehna" / English punch line.
 - **Series thinking:** ek reel mein prediction, agli reel mein "proof".
 - **Monetisation:** brand integration ko education reel ki tarah banana (bliss point → product).
+- **Batch 2 (R6–R10) ne aur variants dikhaye:** follow-the-money (Golden Rice), science →
+  tradition (vibration → Shiv), emotional story + prayer CTA (baby elephant), movie-scene re-read
+  + name reveal (KGB → diaspora → Modi), civic "kadwa sach" (pollution). Detail:
+  [`../research/04-instagram-reels-batch-2.md`](../research/04-instagram-reels-batch-2.md)
+- **Range:** ek hi creator geopolitics, business, animals, science-spirituality, pollution aur
+  history sab karta hai. **Topic se zyada "lens" consistent hai**: *"jo dikh raha hai uske
+  peeche kuch aur hai"*, aur ek *India-first* nazariya.
 
 ## 7. Isse kya NAHI lena
 
