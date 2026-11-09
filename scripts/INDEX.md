@@ -6,7 +6,7 @@ Status: 🔎 researched · ✍️ scripted · 🖼️ proofed · 🎥 shot · �
 | Post date | Din | Format | Topic | Folder | Status |
 |---|---|---|---|---|---|
 | 2026-11-09 | Mon | 🎬 Reel | Punjab ka 2009 paani kanoon → November ka dhuaan | [`2026-11-09-parali-paani-kanoon-reel/`](2026-11-09-parali-paani-kanoon-reel/) | ✍️ (🖼️ pending: network) |
-| 2026-11-10 | Tue | 📺 Long | Paper leak ka poora business model (NEET-UG 2026) | [`2026-11-10-paper-leak-business-long/`](2026-11-10-paper-leak-business-long/) | ✍️ (🖼️ pending: network) |
+| 2026-11-10 | Tue | 📺 Long | Paper leak ka poora business model (NEET-UG 2026), v2: ~16 min, 3 kahaniyan | [`2026-11-10-paper-leak-business-long/`](2026-11-10-paper-leak-business-long/) | ✍️ (🖼️ pending: network) |
 
 ## Purane drafts (naye system se pehle, use karne se pehle JIT re-research + proof)
 

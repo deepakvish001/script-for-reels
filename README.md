@@ -35,6 +35,7 @@ highlighted screenshot.
 | [`growth/00-90-day-growth-plan.md`](growth/00-90-day-growth-plan.md) | Positioning, cadence, hafte ka grid, trend scan, month-wise goals, metrics, risks |
 | [`growth/02-daily-build-system.md`](growth/02-daily-build-system.md) | ⭐ Roz ka process: topic → research → proof script → screenshots → shoot → post |
 | [`growth/01-content-calendar-12-weeks.md`](growth/01-content-calendar-12-weeks.md) | Topic bank: 24 long-form + 36 reels, alag-alag (koi overlap nahi) |
+| [`growth/03-long-form-topic-briefs.md`](growth/03-long-form-topic-briefs.md) | ⭐ Agle 3 hafton ke long-form briefs: cold open, 3 kahaniyan, twist, doosri side, sources |
 | [`scripts/INDEX.md`](scripts/INDEX.md) | Kya ban chuka / post hua (topic repeat rokne ke liye) |
 | [`tools/proof/`](tools/proof/) | ⭐ Screenshot tool: source kholta hai, exact line highlight karta hai, PNG banata hai |
 
