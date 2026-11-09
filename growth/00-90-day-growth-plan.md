@@ -131,4 +131,5 @@ mein agla topic chhupa hai?
 
 - Topic bank (long-form aur reels alag-alag, koi overlap nahi): [`01-content-calendar-12-weeks.md`](01-content-calendar-12-weeks.md)
 - Roz ka build process: [`02-daily-build-system.md`](02-daily-build-system.md)
+- Long-form briefs (agle 3 hafte): [`03-long-form-topic-briefs.md`](03-long-form-topic-briefs.md)
 - Kya ban chuka, kya post hua: [`../scripts/INDEX.md`](../scripts/INDEX.md)
