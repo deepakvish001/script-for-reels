@@ -1,0 +1,471 @@
+{
+ "script": "script.md",
+ "research_as_of": "2026-11-09 05:00 IST",
+ "note": "Highlight texts were taken from search snippets; the cloud session could not open the pages. capture.py confirms each one on the live page (text-not-found = fix the quote before shooting).",
+ "sources": [
+  {
+   "id": "L02",
+   "type": "html",
+   "publisher": "Wikipedia: 2026 NEET controversy",
+   "date": "2026",
+   "url": "https://en.wikipedia.org/wiki/2026_NEET_controversy",
+   "highlight": "the exam was officially cancelled"
+  },
+  {
+   "id": "L02b",
+   "type": "html",
+   "publisher": "Free Press Journal",
+   "date": "2026-05",
+   "url": "https://www.freepressjournal.in/education/neet-ug-2026-re-exam-to-be-held-on-june-21-after-paper-leak-nta-says-no-fresh-registration-needed",
+   "highlight": "June 21"
+  },
+  {
+   "id": "L03",
+   "type": "html",
+   "publisher": "Wikipedia: 2026 NEET controversy",
+   "date": "2026",
+   "url": "https://en.wikipedia.org/wiki/2026_NEET_controversy",
+   "highlight": "22.79 lakh"
+  },
+  {
+   "id": "L03b",
+   "type": "html",
+   "publisher": "Collegedunia",
+   "date": "2026",
+   "url": "https://collegedunia.com/articles/e-457-neet-ug-2026-new-exam-date",
+   "highlight": "22.79 lakh"
+  },
+  {
+   "id": "L04",
+   "type": "html",
+   "publisher": "Careers360",
+   "date": "2026-07-28",
+   "url": "https://news.careers360.com/neet-ug-paper-leak-row-cbi-files-first-charge-sheet-in-neet-paper-leak-names-13-people-as-accused",
+   "highlight": "subject experts"
+  },
+  {
+   "id": "L04b",
+   "type": "html",
+   "publisher": "Medical Dialogues",
+   "date": "2026-07",
+   "url": "https://medicaldialogues.in/state-news/delhi/neet-2026-paper-leak-case-cbi-chargesheets-3-nta-subject-experts-says-leaked-questions-shared-throught-covert-coaching-sessions-176656",
+   "highlight": "3 NTA subject experts"
+  },
+  {
+   "id": "L06",
+   "type": "html",
+   "publisher": "Careers360 (NMC seat matrix)",
+   "date": "2026-09",
+   "url": "https://news.careers360.com/nmc-revises-mbbs-seat-matrix-adds-13636-mbbs-seats-cross-1-40-lakhs-neet-ug-counselling-2026-admission",
+   "highlight": "1,40,664"
+  },
+  {
+   "id": "L06b",
+   "type": "html",
+   "publisher": "Bodmas Education (NMC seat matrix)",
+   "date": "2026-09",
+   "url": "https://bodmaseducation.com/blog_details/nmc-updates-mbbs-seat-matrix-2026-27-140664-seats-across-839-colleges",
+   "highlight": "1,40,664"
+  },
+  {
+   "id": "L08",
+   "type": "html",
+   "publisher": "Newslaundry",
+   "date": "2024-07-31",
+   "url": "https://www.newslaundry.com/2024/07/31/10-years-89-paper-leak-cases-48-retests-from-centre-to-states-few-plugs-for-a-leaky-record",
+   "highlight": "48 retests"
+  },
+  {
+   "id": "L08b",
+   "type": "html",
+   "publisher": "ThePrint",
+   "date": "2024-06",
+   "url": "https://theprint.in/india/repeat-offenders-loopholes-in-law-inside-indias-multi-crore-paper-leak-industry/2159559",
+   "highlight": "multi-crore paper leak industry"
+  },
+  {
+   "id": "L10",
+   "type": "pdf",
+   "publisher": "India Code: Public Examinations (Prevention of Unfair Means) Act, 2024",
+   "date": "2024-02-12",
+   "url": "https://www.indiacode.nic.in/bitstream/123456789/20100/1/A2024-01.pdf",
+   "highlight": "leakage of question paper or answer key"
+  },
+  {
+   "id": "L11",
+   "type": "html",
+   "publisher": "SCC Online",
+   "date": "2024-07-23",
+   "url": "https://www.scconline.com/blog/post/2024/07/23/no-re-test-for-neet-ug-2024-supreme-court-finds-no-material-vitiated-results-systemic-breaches/",
+   "highlight": "systemic breach"
+  },
+  {
+   "id": "L11b",
+   "type": "html",
+   "publisher": "Morung Express (PTI)",
+   "date": "2024-07-23",
+   "url": "https://morungexpress.com/no-systemic-breach-of-neet-ug-2024-exam-except-at-hazaribagh-patna-says-sc",
+   "highlight": "Hazaribagh"
+  },
+  {
+   "id": "L13",
+   "type": "html",
+   "publisher": "Wikipedia: 2026 NEET controversy",
+   "date": "2026",
+   "url": "https://en.wikipedia.org/wiki/2026_NEET_controversy",
+   "highlight": "dictated the exact questions"
+  },
+  {
+   "id": "L13b",
+   "type": "html",
+   "publisher": "Medical Dialogues",
+   "date": "2026-07",
+   "url": "https://medicaldialogues.in/state-news/delhi/neet-2026-paper-leak-case-cbi-chargesheets-3-nta-subject-experts-says-leaked-questions-shared-throught-covert-coaching-sessions-176656",
+   "highlight": "covert coaching sessions"
+  },
+  {
+   "id": "L14",
+   "type": "html",
+   "publisher": "MedBound Times",
+   "date": "2026-07",
+   "url": "https://www.medboundtimes.com/india/neet-ug-2026-paper-leak-nta-experts-cbi-chargesheets-13",
+   "highlight": "NTA Experts"
+  },
+  {
+   "id": "L16",
+   "type": "html",
+   "publisher": "The Statesman",
+   "date": "2026-05",
+   "url": "https://www.thestatesman.com/india/neet-ug-2026-paper-leak-originated-from-nashik-guess-paper-reached-coaching-hub-sikar-via-haryana-rajasthan-sog-1503593212.html",
+   "highlight": "Nashik"
+  },
+  {
+   "id": "L16b",
+   "type": "html",
+   "publisher": "The Federal",
+   "date": "2026-05",
+   "url": "https://thefederal.com/category/education/how-rajasthans-sikar-became-ground-zero-of-the-neet-2026-scandal-242937",
+   "highlight": "Nashik"
+  },
+  {
+   "id": "L17",
+   "type": "html",
+   "publisher": "The Federal",
+   "date": "2026-05",
+   "url": "https://thefederal.com/category/education/how-rajasthans-sikar-became-ground-zero-of-the-neet-2026-scandal-242937",
+   "highlight": "WhatsApp groups"
+  },
+  {
+   "id": "L18",
+   "type": "html",
+   "publisher": "The Federal",
+   "date": "2026-05",
+   "url": "https://thefederal.com/category/education/how-rajasthans-sikar-became-ground-zero-of-the-neet-2026-scandal-242937",
+   "highlight": "email"
+  },
+  {
+   "id": "L20",
+   "type": "html",
+   "publisher": "The Federal",
+   "date": "2026-05",
+   "url": "https://thefederal.com/category/education/how-rajasthans-sikar-became-ground-zero-of-the-neet-2026-scandal-242937",
+   "highlight": "Rs 5 lakh"
+  },
+  {
+   "id": "L20b",
+   "type": "html",
+   "publisher": "Business Today",
+   "date": "2026-05-11",
+   "url": "https://www.businesstoday.in/education/exams/story/neet-2026-question-paper-leaked-600-of-720-neet-2026-questions-matched-pre-exam-material-probe-launched-530741-2026-05-11",
+   "highlight": "Rs 20,000"
+  },
+  {
+   "id": "L22",
+   "type": "html",
+   "publisher": "MedBound Times",
+   "date": "2026-07",
+   "url": "https://www.medboundtimes.com/india/neet-ug-2026-paper-leak-nta-experts-cbi-chargesheets-13",
+   "highlight": "4 lakh"
+  },
+  {
+   "id": "L22b",
+   "type": "html",
+   "publisher": "NewsGram",
+   "date": "2026-08-08",
+   "url": "https://www.newsgram.com/education/2026/08/08/neet-2026-paper-leak-cbi-chargesheet",
+   "highlight": "4 lakh"
+  },
+  {
+   "id": "L23",
+   "type": "html",
+   "publisher": "Careers360 (PTI)",
+   "date": "2024-06",
+   "url": "https://news.careers360.com/neet-row-bihar-police-recover-6-post-dated-cheques-issued-for-question-paper-facilitators",
+   "highlight": "post-dated cheques"
+  },
+  {
+   "id": "L23b",
+   "type": "html",
+   "publisher": "DT Next (PTI)",
+   "date": "2024-06",
+   "url": "https://www.dtnext.in/news/national/neet-row-bihar-police-recover-6-post-dated-cheques-issued-for-question-paper-facilitators-790518",
+   "highlight": "30 lakh"
+  },
+  {
+   "id": "L26",
+   "type": "html",
+   "publisher": "Wikipedia: Sunk cost",
+   "date": "",
+   "url": "https://en.wikipedia.org/wiki/Sunk_cost",
+   "highlight": "sunk cost fallacy"
+  },
+  {
+   "id": "L27",
+   "type": "html",
+   "publisher": "Wikipedia: Cockroach Janta Party",
+   "date": "2026",
+   "url": "https://en.wikipedia.org/wiki/Cockroach_Janta_Party",
+   "highlight": "16 May 2026"
+  },
+  {
+   "id": "L27b",
+   "type": "html",
+   "publisher": "Britannica",
+   "date": "2026",
+   "url": "https://www.britannica.com/topic/Cockroach-Janta-Party",
+   "highlight": "Cockroach Janta Party"
+  },
+  {
+   "id": "L28",
+   "type": "html",
+   "publisher": "Al Jazeera",
+   "date": "2026-06-06",
+   "url": "https://www.aljazeera.com/gallery/2026/6/6/youth-led-satire-cockroach-janta-party-protests-exam-system-failures",
+   "highlight": "Jantar Mantar"
+  },
+  {
+   "id": "L28b",
+   "type": "html",
+   "publisher": "Wikipedia: 2026 Delhi Jantar Mantar protests",
+   "date": "2026",
+   "url": "https://en.wikipedia.org/wiki/2026_Delhi_Jantar_Mantar_protests",
+   "highlight": "6 June"
+  },
+  {
+   "id": "L29",
+   "type": "html",
+   "publisher": "CNN",
+   "date": "2026-07-25",
+   "url": "https://www.cnn.com/2026/07/25/india/india-education-minister-resignation-intl",
+   "highlight": "resign"
+  },
+  {
+   "id": "L29b",
+   "type": "html",
+   "publisher": "Al Jazeera",
+   "date": "2026-07-25",
+   "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests",
+   "highlight": "resign"
+  },
+  {
+   "id": "L30",
+   "type": "html",
+   "publisher": "PIB (Ministry of Personnel)",
+   "date": "2026-07-29",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291258",
+   "highlight": "five to ten years"
+  },
+  {
+   "id": "L30b",
+   "type": "html",
+   "publisher": "Wikipedia: Amendment Act, 2026",
+   "date": "2026",
+   "url": "https://en.wikipedia.org/wiki/Public_Examinations_(Prevention_of_Unfair_Means)_Amendment_Act,_2026",
+   "highlight": "50 lakh"
+  },
+  {
+   "id": "L31",
+   "type": "html",
+   "publisher": "PIB (Ministry of Personnel)",
+   "date": "2026-07-29",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291258",
+   "highlight": "seven to ten years"
+  },
+  {
+   "id": "L31b",
+   "type": "html",
+   "publisher": "PIB (Ministry of Personnel)",
+   "date": "2026-07-29",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291258",
+   "highlight": "Special Fast Track Courts"
+  },
+  {
+   "id": "L31c",
+   "type": "html",
+   "publisher": "ThePrint (PTI)",
+   "date": "2026-07-30",
+   "url": "https://theprint.in/india/rajya-sabha-passes-amendment-to-anti-paper-leak-bill-amid-opposition-walkout/3001552/",
+   "highlight": "Rajya Sabha"
+  },
+  {
+   "id": "L32",
+   "type": "html",
+   "publisher": "PIB (Ministry of Personnel)",
+   "date": "2026-07-29",
+   "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2291258",
+   "highlight": "two months"
+  },
+  {
+   "id": "L33",
+   "type": "html",
+   "publisher": "Careers360",
+   "date": "2026-11-01",
+   "url": "https://news.careers360.com/neet-ug-2027-cbt-mode-centre-extends-nilekani-panels-tenure-paper-leak-controversy-latest-update",
+   "highlight": "January 2027"
+  },
+  {
+   "id": "L33b",
+   "type": "html",
+   "publisher": "India.com",
+   "date": "2026-11",
+   "url": "https://www.india.com/education/neet-ug-reforms-nandan-nilekani-panel-gets-deadline-extension-till-jan-2027-amid-cbt-proposal-and-state-objections-8541604/",
+   "highlight": "Jan 2027"
+  },
+  {
+   "id": "L34",
+   "type": "html",
+   "publisher": "Careers360",
+   "date": "2026-11-01",
+   "url": "https://news.careers360.com/neet-ug-2027-cbt-mode-centre-extends-nilekani-panels-tenure-paper-leak-controversy-latest-update",
+   "highlight": "computer-based"
+  },
+  {
+   "id": "L36",
+   "type": "html",
+   "publisher": "Outlook India",
+   "date": "2018",
+   "url": "https://outlookindia.com/national/sscexam-leak-accused-took-remote-access-of-candidates-computers-to-solve-paper-news-310149",
+   "highlight": "remote access"
+  },
+  {
+   "id": "L36b",
+   "type": "html",
+   "publisher": "The Statesman",
+   "date": "2026",
+   "url": "https://www.thestatesman.com/india/ssc-gd-scam-exposes-tech-enabled-exam-mafia-insider-collusion-under-scanner-1503594375.html",
+   "highlight": "remote"
+  },
+  {
+   "id": "L37",
+   "type": "html",
+   "publisher": "ThePrint",
+   "date": "2021-12",
+   "url": "https://theprint.in/india/how-gang-in-3-indian-states-solved-gmat-jee-armed-forces-exams-for-cash-with-russian-help/795968/",
+   "highlight": "Russian"
+  },
+  {
+   "id": "L37b",
+   "type": "html",
+   "publisher": "Cyber Security News",
+   "date": "2022",
+   "url": "https://cybersecuritynews.com/russian-hacker-arrested-in-india/",
+   "highlight": "JEE"
+  },
+  {
+   "id": "L38",
+   "type": "html",
+   "publisher": "India.com",
+   "date": "2026-11",
+   "url": "https://www.india.com/education/neet-ug-reforms-nandan-nilekani-panel-gets-deadline-extension-till-jan-2027-amid-cbt-proposal-and-state-objections-8541604/",
+   "highlight": "state objections"
+  },
+  {
+   "id": "L40",
+   "type": "html",
+   "publisher": "Verdictum",
+   "date": "2024-06-22",
+   "url": "https://www.verdictum.in/news/public-examinations-prevention-of-unfair-means-act-2024-effective-june-21-1541124",
+   "highlight": "June 21"
+  },
+  {
+   "id": "L40b",
+   "type": "html",
+   "publisher": "IANS",
+   "date": "2024-06-22",
+   "url": "https://ianslive.in/new-anti-paper-leak-law-jail-term-up-to-rs-1-cr-fine-as-punishments--20240622091845",
+   "highlight": "anti-paper leak"
+  },
+  {
+   "id": "L43",
+   "type": "html",
+   "publisher": "Business Standard (PTI)",
+   "date": "2015-10-25",
+   "url": "https://www.business-standard.com/article/pti-stories/china-makes-copying-in-examinations-a-crime-115102500474_1.html",
+   "highlight": "seven years"
+  },
+  {
+   "id": "L43b",
+   "type": "html",
+   "publisher": "Tes",
+   "date": "2016-06",
+   "url": "https://www.tes.com/news/chinese-gaokao-exam-cheats-face-seven-year-jail-term",
+   "highlight": "seven-year"
+  },
+  {
+   "id": "L45",
+   "type": "html",
+   "publisher": "Business Standard (PTI)",
+   "date": "2026-10-14",
+   "url": "https://www.business-standard.com/india-news/cbi-files-supplementary-chargesheet-in-neet-ug-2026-paper-leak-case-126101400408_1.html",
+   "highlight": "supplementary"
+  },
+  {
+   "id": "L45b",
+   "type": "html",
+   "publisher": "Careers360",
+   "date": "2026-10-29",
+   "url": "https://news.careers360.com/neet-ug-2026-paper-leak-case-court-reserves-order-on-framing-charges",
+   "highlight": "November 18"
+  },
+  {
+   "id": "L45c",
+   "type": "html",
+   "publisher": "Devdiscourse (PTI)",
+   "date": "2026-10-29",
+   "url": "https://www.devdiscourse.com/article/headlines/3998715-cbi-court-reserves-order-on-framing-of-charges-in-neet-ug-paper-leak-case",
+   "highlight": "November 18"
+  },
+  {
+   "id": "L47",
+   "type": "html",
+   "publisher": "Careers360",
+   "date": "2026-06",
+   "url": "https://news.careers360.com/nta-denies-neet-ug-2026-re-exam-question-paper-leak-rumours-cautions-students-warns-against-scammers-mbbs-admissions",
+   "highlight": "scammers"
+  },
+  {
+   "id": "L48",
+   "type": "pdf",
+   "publisher": "India Code: Public Examinations (Prevention of Unfair Means) Act, 2024",
+   "date": "2024-02-12",
+   "url": "https://www.indiacode.nic.in/bitstream/123456789/20100/1/A2024-01.pdf",
+   "highlight": "cognizable, non-bailable and non-compoundable"
+  },
+  {
+   "id": "L49",
+   "type": "html",
+   "publisher": "PIB (Ministry of Health)",
+   "date": "2024",
+   "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2022057",
+   "highlight": "14416"
+  },
+  {
+   "id": "L49b",
+   "type": "html",
+   "publisher": "IIT Kanpur Counselling Service",
+   "date": "2025",
+   "url": "https://iitk.ac.in/counsel/TeleManas.php",
+   "highlight": "14416"
+  }
+ ]
+}
